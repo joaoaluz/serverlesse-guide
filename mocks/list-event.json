@@ -1,5 +1,4 @@
 {
-    "body": "{\"content\":\"Ola 5\",\"attachment\":\"hello.jpg\",\"teste2\":\"joao\"}",
     "requestContext": {
       "identity": {
         "cognitoIdentityId": "USER-SUB-1234"
